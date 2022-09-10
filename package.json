@@ -1,0 +1,16 @@
+{
+  "name": "test-server",
+  "version": "1.0.0",
+  "description": "Buling Call Forwarding IVR with TWILIO",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fawad Naeem",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
